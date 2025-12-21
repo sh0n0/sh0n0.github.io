@@ -21,8 +21,9 @@
 title: Groundhog Day
 email:
 description: >- # this means to ignore newlines until "baseurl:"
+  プログラミングと映画と言語
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sh0n0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sh0n0_
 github_username:  sh0n0
 minimal_mistakes_skin: dark
