@@ -21,7 +21,7 @@ classes: wide
 - Cloudflare: 個人開発など
 
 
-## 興味・関心
+## 趣味
 
 - 映画
 - 言語
